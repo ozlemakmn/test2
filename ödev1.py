@@ -1,4 +1,4 @@
-# https://github.com/ozlemakmn/test2
+
 
 # 1- İlk iki elemanı 1'e eşit olan, en az 20 elemanlı bir fibonacci serisini liste halinde oluşturan döngü yazalım.
 
